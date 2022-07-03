@@ -5,7 +5,7 @@ public class Main {
     Cleric h = new Cleric();
     h.name = "Ryo";
     h.hp = 40;
-    h.mp = 6;
+    h.mp = 4;
     System.out.println("主人公誕生");
     h.selfAid();
     h.pray(4);

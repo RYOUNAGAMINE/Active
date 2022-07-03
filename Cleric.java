@@ -22,6 +22,7 @@ public class Cleric {
     this.mp += recover;
     System.out.println("MPが" + recoverActual + "回復した");
     System.out.println("MPが" + recoverActual + "回復した");
+    System.out.println("MPが" + recoverActual + "回復した");
 
     return recoverActual;
   }
